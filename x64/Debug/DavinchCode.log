@@ -1,0 +1,8 @@
+﻿  main.cpp
+  class.cpp
+C:\Users\KIM\Desktop\다빈치코드\DavinchCode\class.cpp(296,20): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIM\Desktop\다빈치코드\DavinchCode\class.cpp(303,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\KIM\Desktop\다빈치코드\DavinchCode\class.cpp(306,10): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIM\Desktop\다빈치코드\DavinchCode\class.cpp(308,14): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  DavinchCode.vcxproj -> C:\Users\KIM\Desktop\다빈치코드\x64\Debug\DavinchCode.exe

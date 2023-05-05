@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\UserK\source\repos\DavinchCode\DavinchCode\class.h(112,9): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  DavinchCode.vcxproj -> C:\Users\UserK\source\repos\DavinchCode\Debug\DavinchCode.exe
